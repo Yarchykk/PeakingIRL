@@ -6,11 +6,16 @@ Create a prototype where instead of being a visual gag I can physically get up a
 
 Reference Inspo: https://github.com/user-attachments/assets/4f0d4f95-15e7-4e87-b658-946f654c2d9f
 
-How I plan on achieving this:
-Engine: UE5
-Plugin: nDisplay 
-Hardware: 2 Projectors and a webcam
-​
+## How I plan on achieving this  
+Engine: UE5  
+Plugin: nDisplay   
+Hardware: 2 Projectors and a webcam  
+## Status: 
+Created working software concept,  
+On pause until I buy the hardware to being testing. 
+
+  
+## Details
 nDisplay is a virtual production plugin that allows for rendering the game environment to multiple screens/displays through a user defined configuration. 
 In the CSGO clip, the streamer is recording himself through a camera, cutting out the background, and overlaying himself on top of the game footage. 
 My goal is to have a projectors setup to stream the game footage behind me on a prop wall. In the camera view I will physically already be in front of the game footage. 
