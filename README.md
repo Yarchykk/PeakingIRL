@@ -11,9 +11,9 @@ Engine: UE5
 Plugin: nDisplay   
 Hardware: 2 Projectors and a webcam  
 ## Status: 
-Created working software concept,  
-On pause until I buy the hardware to being testing. 
-
+Working software concept,
+Haven't bought projectors yet,
+Other projects + switching OS to Linux have put this on perpetual hold
   
 ## Details
 nDisplay is a virtual production plugin that allows for rendering the game environment to multiple screens/displays through a user defined configuration. 
